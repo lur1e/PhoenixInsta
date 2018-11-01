@@ -1,0 +1,3 @@
+[submodule "instapy"]
+	path = instapy
+	url = https://github.com/timgrossmann/InstaPy.git
